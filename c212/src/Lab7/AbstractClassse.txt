@@ -1,0 +1,7 @@
+1. What are abstract classes? - 4 
+An abstract class is a placeholder class that cannot be instantiated.
+2. An abstract class cannot be instantiated, so it cannot have a constructor – True or False? 
+Briefly explain why? - 4 
+Abstract classes can have constructors; unlike interfaces. this is one of the largest differneces between the two. 
+3. Can abstract class have methods other than abstract methods – True or False? - 2 
+Yes
